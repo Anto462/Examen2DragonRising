@@ -22,7 +22,7 @@ public class PatrolController : MonoBehaviour
     Transform attackPoint;
 
     [SerializeField]
-    float damage;
+    int damage;
 
     [SerializeField]
     float health;
